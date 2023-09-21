@@ -81,8 +81,10 @@ line-height: normal;
     background-color: #FD6E0A;
     color: white;
 } */
-
 .banner-img {
     width: 350px;
     height: 350px;
 }
+.background-img{
+    background-image: url(images/header_bg.png);
+    position:initial;
